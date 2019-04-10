@@ -6,10 +6,15 @@ Bare-bones example project for [nlp-ue4](https://github.com/Glenn-v-W/nlp-ue4) p
 
 To try out this example project, all you need to do is:
 
-[ADD PLUGINS]
+1.    Download and extract this project
 
-1.    download GoogleNews-vectors-negative300.bin (3.39 GB!) from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
-2.    add GoogleNews-vectors-negative300.bin to \Content\Scripts in your project
+2.    Download and add [tensorflow-ue4 plugin](https://github.com/getnamo/tensorflow-ue4-examples/releases) to \Plugins
+
+3.    Download and add [nlp-ue4 plugin](https://github.com/Glenn-v-W/nlp-ue4) to \Plugins
+
+4.    download GoogleNews-vectors-negative300.bin (3.39 GB!) from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
+
+5.    add GoogleNews-vectors-negative300.bin to \Content\Scripts in your project
 
 (This file is too large to upload to github, so this is the only way to make it work!)
 
