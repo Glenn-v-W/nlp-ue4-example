@@ -6,6 +6,8 @@ Bare-bones example project for [nlp-ue4](https://github.com/Glenn-v-W/nlp-ue4) p
 
 To try out this example project, all you need to do is:
 
+[ADD PLUGINS]
+
 1.    download GoogleNews-vectors-negative300.bin (3.39 GB!) from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 2.    add GoogleNews-vectors-negative300.bin to \Content\Scripts in your project
 
