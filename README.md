@@ -16,7 +16,7 @@ To try out this example project, all you need to do is:
 
 ## Feature Overview
 
-For a feature overview, see https://github.com/Glenn-v-W/nlp-ue4
+For a feature overview, see the [plugin](https://github.com/Glenn-v-W/nlp-ue4) page!
 
 ## [License](https://github.com/Glenn-v-W/nlp-ue4/blob/master/LICENSE)
 NLP and Tensorflow Plugin - [MIT](https://opensource.org/licenses/MIT)
